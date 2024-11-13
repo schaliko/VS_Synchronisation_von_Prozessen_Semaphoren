@@ -1,4 +1,4 @@
-ll: fork1
+all: fork1
 
 fork: main.o
 	gcc -o fork1 main.o
